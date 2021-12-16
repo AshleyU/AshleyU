@@ -8,5 +8,5 @@
 
 ⚡ Fun fact: I lived in Japan for 3 years! (Yamagata and Tokyo)
 
-[![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyu)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
