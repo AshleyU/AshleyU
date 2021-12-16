@@ -1,4 +1,4 @@
-~ Hi there 👋 My name is Ashley and I am currently an Appretice at Verizon! ~
+~ Hi there 👋 My name is Ashley and I am currently an apprentice at Verizon! ~
 
 🌱 I’m currently learning: React, GoLang, Docker, Kubernetes
 
