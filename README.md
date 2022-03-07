@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on: A few projects for my portfolio
 
-😄 I love: Hanging out with my dog, watching anime, playing games
+😄 I love: Watching anime and playing games
 
 ⚡ Fun fact: I lived in Japan for 3 years! (Yamagata and Tokyo)
 
