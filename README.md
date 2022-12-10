@@ -1,12 +1,4 @@
-~ Hi there 👋 My name is Ashley and I am currently an apprentice at Verizon! ~
-
-🌱 I’m currently learning: React, GoLang, Docker, Kubernetes
-
-🔭 I’m currently working on: A few projects for my portfolio
-
-😄 I love: Watching anime and playing games
-
-⚡ Fun fact: I lived in Japan for 3 years! (Yamagata and Tokyo)
+~ Hi there 👋 My name is Ashley and I am currently a Systems Engineer at Verizon! ~
 
 [![Ashley's GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyumetsu/)
 
