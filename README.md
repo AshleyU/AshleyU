@@ -1,4 +1,4 @@
-~ Hi there 👋 My name is Ashley and I am currently a Systems Engineer at Verizon! ~
+~ Hi there 👋 My name is Ashley and I am currently a Software Engineer at Verizon! ~
 
 [![Ashley's GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashleyumetsu/)
 
